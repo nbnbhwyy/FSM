@@ -1,8 +1,9 @@
 ## prediction and pattern discovery for drug combination based on multimodel friendship features
 
-Our paper is at https:
 
-![ABC](https://github.com/nbnbhwyy/FSM/blob/main/Flowchart.png) 
+![Flowchart](https://github.com/nbnbhwyy/FSM/blob/main/Flowchart.png) 
+
+Our paper is at https:
 
 ## Installation
 First install the dependencies via conda:
