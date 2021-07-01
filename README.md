@@ -2,7 +2,7 @@
 
 Our paper is at https:
 
-![ABC](.//Flowchart.jpg) 
+![ABC](https://github.com/nbnbhwyy/FSM/blob/main/Flowchart.png) 
 
 ## Installation
 First install the dependencies via conda:
